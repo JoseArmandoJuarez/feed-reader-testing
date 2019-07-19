@@ -72,7 +72,7 @@ $(function () {
 
     describe('Initial Entries', function () {
         /* This test ensures when the loadFeed
-        * function is called and completes its work, there is at least
+        * function is called and completes its work that there is at least
         * a single .entry element within the .feed container.     
         */
 
